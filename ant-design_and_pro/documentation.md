@@ -25,8 +25,8 @@ render: function callback(unknown1, wholeDataUnit, currentRowIndex, unknown2, cu
 }
 }]
 ```
-#### parameters
-* callback
+#### parameters:
+**callback**
 Function used to replace original built-in render function, taking 5 values in total
 * unknown1
 * wholeDataUnit
